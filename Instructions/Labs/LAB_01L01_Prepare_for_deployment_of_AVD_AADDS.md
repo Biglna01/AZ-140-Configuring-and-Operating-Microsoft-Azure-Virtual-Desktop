@@ -1,4 +1,4 @@
----
+--- Patch Testing
 lab:
     title: 'Lab: Prepare for deployment of Azure Virtual Desktop (Azure AD DS)'
     module: 'Module 1: Plan a AVD Architecture'
